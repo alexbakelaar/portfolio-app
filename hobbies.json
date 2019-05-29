@@ -1,5 +1,5 @@
 [
     {"code":0, "name": "Snowboarding", "description": "Starting from a young age, I have been snowboarding for most of my life. Being a season ticket holder at a nearby hill, I never miss out on the snowboarding season.", "image" : "images/snow2.jpg"},
     {"code":1, "name": "Custom PC Building", "description": "When it comes to computers I am passionate about the internal hardware that comes with them. For the last five years I have been building custom PCs, focusing on showing off the internals with proper cable management on both the inside and outside. Keeping up to date on the latest hardware that comes to market is another enjoyment, as I plan builds a year in advance. Stay tuned to my custom loop build coming later this summer. ", "image" : "images/custombuild.jpg"},
-    {"code":2, "name": "Watch & Clock Repair", "description": "Insert info here", "image" : "images/snow2.jpg"}
+    {"code":2, "name": "Watch & Clock Repair", "description": "Before I went on to study computer science I practed in watch and clock restoration for 5 years. It is a rigorous process of cleaning and repair any inssues of individual components. The scale of devices I worked on ranged from small pocket watches to clocktower movements.", "image" : "images/clock.jpg"}
 ]
