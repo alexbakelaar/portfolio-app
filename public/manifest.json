@@ -5,7 +5,7 @@
    },
   "short_name": "React App",
   "name": "Create React App Sample",
-  "homepage" : "https://alexbakelaar.github.io/portfolio",
+  "homepage" : "https://alexbakelaar.github.io/portfolio-app",
   "icons": [
     {
       "src": "favicon.ico",
